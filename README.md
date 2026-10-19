@@ -19,6 +19,7 @@
 ### Force Update the Deployed (Pending) Update
 `sudo rpm-ostree upgrade`
 - if it says update was staged reboot to apply it
+
 `sudo systemctl reboot`
 
 
@@ -27,4 +28,3 @@
 - A box to type text into appears
 - Type Discover
 - It should open the discover update app
-- 
